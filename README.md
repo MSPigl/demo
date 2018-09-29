@@ -4,5 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-I hope ....
-This will cause trouble
+Just something going on
